@@ -1,0 +1,19 @@
+
+
+java:S1192$"GDefine a constant instead of duplicating this literal "    {
+" 5 times.(Ÿñ¼Ñÿÿÿÿÿ8•Áš»å1J$cdbd71e6-72b4-4ee7-a165-52eea11a7e8b
+‹
+java:S11927"HDefine a constant instead of duplicating this literal "    },
+" 3 times.(¥ÁÊÁ8–Áš»å1J$b94dc11c-2da0-405c-9431-d511add6ab24
+­
+java:S11926"jDefine a constant instead of duplicating this literal "      \"threshold\": \"BLOCK_ONLY_HIGH\"
+" 4 times.(šÑóù8—æúªæ1J$35e02026-7f94-4c1b-9491-958c296aa8d3
+œ
+java:S1488"[Immediately return this expression instead of assigning it to the temporary variable "res".(“Ò¥¾ıÿÿÿÿJ$7b7e4624-820c-4d1e-bce7-ee95190bff10
+¢
+java:S1488""_Immediately return this expression instead of assigning it to the temporary variable "jsonStr".(èâñê8˜Áš»å1J$0d3a49fa-baa0-400f-9364-ef69a5e5183a
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(çøÅüÿÿÿÿJ$c5aedd6d-c06c-4004-8773-d4eba7c53e59
+”	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²½¥J$5d7ed7cc-0d0e-4ec2-9f20-d24261b799e8
+{
+java:S1118":Add a private constructor to hide the implicit public one.(çøÅüÿÿÿÿJ$518fdabb-c45a-46d6-a8b4-99ef298013d5
+d	java:S108")Either remove or fill this block of code.(”ı¾J$80c496f0-766f-4af6-9ea0-f7dd67b53d2e

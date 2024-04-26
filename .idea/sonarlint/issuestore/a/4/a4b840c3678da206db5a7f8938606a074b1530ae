@@ -1,10 +1,10 @@
 
 r
-java:S3740"/Provide the parametrized type for this generic.(»ñøÊ8‚£Ğƒç1J$9fb5d009-ae1f-4ce5-8ea1-a1dfd4722cd0
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ô‡×½8…£Ğƒç1J$5c8408f5-fec0-484e-8b7a-306afc0f3ddd
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁğÇ’üÿÿÿÿ8‡£Ğƒç1J$9546208e-9dda-4ff1-9523-716ddf3feda2
+java:S3740"/Provide the parametrized type for this generic.(»ñøÊ8‚£Ğƒç1J$c2534b28-4e33-4c0a-959c-52fb13b27829
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ô‡×½8…£Ğƒç1J$e2f39792-2837-42ce-ac1a-ea9434754e43
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÁğÇ’üÿÿÿÿ8‡£Ğƒç1J$b60b9619-9c10-4c42-bf29-de94e428f01e
 ­
-java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ8¢£Ğƒç1J$42759192-db9b-418d-8311-2fe488cb0cd9
+java:S6833"eReplace the "@Controller" annotation by "@RestController" and remove all "@ResponseBody" annotations.(íœ¡ñùÿÿÿÿ8¢£Ğƒç1J$951d8e24-354b-4408-940d-5d454e32854e
 w
-java:S2209"5Change this instance-reference to a static reference.(Ü¬t8ª£Ğƒç1J$83130031-f56a-47d4-90fb-12cdb402a1ab
-~	java:S1257"<This block of commented-out lines of code should be removed.(½’Şö8åœßƒç1J$b8e03d92-71d0-4459-be3d-a6b44a419e22
+java:S2209"5Change this instance-reference to a static reference.(Ü¬t8ª£Ğƒç1J$675d5cf1-4bd3-4856-b688-2149fb381b66
+~	java:S1257"<This block of commented-out lines of code should be removed.(½’Şö8åœßƒç1J$65333f00-5184-4e7c-a5ff-c772767eeb0f
